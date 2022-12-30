@@ -1,0 +1,11 @@
+{
+  "name": "climate-change-api",
+  "version": "1.0.0",
+  "description": "A Climate Change API",
+  "main": "index.js",
+  "author": "JULTDEV",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
